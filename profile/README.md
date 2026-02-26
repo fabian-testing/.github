@@ -20,7 +20,7 @@ Built during HackMeridian 2025
 
 ## ✅ Our Solution
 
-**Veridion is the Stellar Passport.**
+**Veridion is the Stellar Passport**
 
 - **Verify once, use everywhere** – one KYC, reusable across all Stellar apps.  
 - **Proof of Humanness** – stop bots and AI from gaming the system.  
