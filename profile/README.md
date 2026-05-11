@@ -48,7 +48,7 @@ With Veridion:
 - [**Fabián Sánchez**](https://github.com/fabiansanchezd) – Fullstack Developer  
 
 ---
-**Veridion makes Stellar safer, more inclusive, and human-first. 🚀**
+**Veridion makes Stellar safer, more inclusive, and human-first.**
 
 ---
 ## Links of interest
